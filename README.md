@@ -6,3 +6,5 @@
 ## Merge with feature1
 
 ## Create hotfix
+
+## Merge with hotfix
