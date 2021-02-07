@@ -12,3 +12,6 @@
 ## Merge with hotfix
 
 ## Pull from master
+
+## Merge with feature2
+
