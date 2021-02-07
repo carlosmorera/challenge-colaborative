@@ -3,3 +3,4 @@
 
 ## Create feature from master
 
+## Merge with feature1
